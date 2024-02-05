@@ -1,1 +1,1 @@
-# frontend-practice
+# frontend-personal-project
